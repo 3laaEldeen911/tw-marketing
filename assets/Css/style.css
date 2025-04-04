@@ -7,16 +7,3 @@
 .nav:hover {
     border-bottom: 2px solid #AC6CFF; 
 }
-.card-service{
-    transition: all 0.3س ease-in-out;
-}
-
-.card-service:hover.service{
-    background-color: #AC6CFF;
-}
-.card-service:hover{
-    background-color: #2F1C48;
-}
-.group:hover {
-    background-color: #2F1C48; /* الخلفية هتتغير لما يتم التفاعل مع الكارد */
-}
