@@ -7,3 +7,7 @@
 .nav:hover {
     border-bottom: 2px solid #AC6CFF; 
 }
+.container{
+    width: 90%;
+    padding: 20px
+}
